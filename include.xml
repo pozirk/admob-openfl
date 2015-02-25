@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<dependency name="admob" path="dependencies/admob" if="android" />
+	<android extension="com.pozirk.ads.Admob" />
+</project>
