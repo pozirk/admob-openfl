@@ -2,6 +2,7 @@ Introduction
 ============
 
 Admob OpenFL Extension. (Adnroid only)
+
 More info on Admob: https://developers.google.com/mobile-ads-sdk/
 
 
@@ -19,7 +20,7 @@ Admob OpenFL Extension is free, open-source software under the [MIT license](LIC
 Installation
 =======
 
-You can easily install GameCenter using haxelib:
+You can easily install Admob Extension using haxelib:
 
     haxelib install admob-openfl
 
