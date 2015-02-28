@@ -2,7 +2,6 @@ Introduction
 ============
 
 Admob OpenFL Extension. (Adnroid only)
-
 More info on Admob: https://developers.google.com/mobile-ads-sdk/
 
 
@@ -17,21 +16,8 @@ License
 Admob OpenFL Extension is free, open-source software under the [MIT license](LICENSE.md).
 
 
-Installation
-=======
-
-You can easily install Admob Extension using haxelib:
-
-    haxelib install admob-openfl
-
-To add it to OpenFL project, add this to your project file:
-
-    <haxelib name="admob-openfl" />
-
-
 Usage
 =======
-
 ```haxe
 import com.pozirk.ads.Admob;
 import com.pozirk.ads.AdmobEvent;
