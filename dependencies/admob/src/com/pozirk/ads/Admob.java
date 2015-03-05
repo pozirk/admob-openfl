@@ -177,4 +177,31 @@ public class Admob extends Extension
 			}
 		});
   }
+	
+	@Override
+	public void onResume()
+	{
+		if(_adView != null)
+			_adView.resume();
+		
+		super.onResume();
+	}
+	
+	@Override
+	public void onPause()
+	{
+		if(_adView != null)
+			_adView.pause();
+		
+		super.onPause();
+	}
+	
+	@Override
+	public void onDestroy()
+	{
+		if(_adView != null)
+			_adView.destroy();
+		
+		super.onDestroy();
+	}
 }

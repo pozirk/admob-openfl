@@ -4,8 +4,8 @@
 	"license": "MIT",
 	"tags": ["openfl", "admob", "ads"],
 	"description": "Admob extension for OpenFL",
-	"version": "0.0.2",
-	"releasenote": "Bug fixes.",
+	"version": "0.0.3",
+	"releasenote": "Minor improvments.",
 	"contributors": ["pozirk"],
 	"dependencies": {"openfl": ""}
 }
