@@ -49,6 +49,6 @@ private function onAdmobCache(ae:AdmobEvent):Void
 Game with Admob extension
 =======
 
-Google Play: https://play.google.com/store/apps/details?id=com.pozirk.matchjong
+Match Jong: https://play.google.com/store/apps/details?id=com.pozirk.matchjong
 
 Play level 2 in order to see interstitial ad.
