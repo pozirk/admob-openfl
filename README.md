@@ -12,8 +12,18 @@ Android (Anyone willing to extend it to support iOS? Contact me!)
 
 License
 =======
-
 Admob OpenFL Extension is free, open-source software under the [MIT license](LICENSE.md).
+
+
+Installation
+=======
+You can easily install Admob extension using haxelib:
+
+	haxelib install admob-openfl
+
+To add it to a OpenFL project, add this to your project file:
+
+	<haxelib name="admob-openfl" />
 
 
 Usage
@@ -44,11 +54,3 @@ private function onAdmobCache(ae:AdmobEvent):Void
 	_admob.showInterstitial();
 }
 ```
-
-
-Game with Admob extension
-=======
-
-Match Jong: https://play.google.com/store/apps/details?id=com.pozirk.matchjong
-
-Play level 2 in order to see interstitial ad.
