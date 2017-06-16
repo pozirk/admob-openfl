@@ -1,5 +1,5 @@
 **I'm not using and not supporting this extension anymore. Please use/contribute to https://github.com/openfl/extension-admob**<br />
-Although, extension is still working fine a of Juen16, 2017.
+Although, extension is still working fine as of June 16, 2017.
 
 Introduction
 ============
