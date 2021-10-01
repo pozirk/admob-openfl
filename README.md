@@ -1,4 +1,4 @@
-**I'm not using and not supporting this extension anymore. Please use/contribute to https://github.com/HaxeExtension/extension-admob**<br />
+**I'm not using and not supporting this extension anymore. Please use/contribute to https://github.com/pozirk/extension-admob**<br />
 Although, extension is still working fine as of June 16, 2017.
 
 Introduction
